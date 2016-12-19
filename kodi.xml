@@ -26,6 +26,10 @@
 			<location>https://www.father-mande.ovh/Q/qpkg/mykodi16_2-16.1.1.zip</location>
 		</platform>
 		<platform>
+			<platformID>TS-253A</platformID>
+			<location>https://www.father-mande.ovh/Q/qpkg/mykodi16_2-16.1.1.zip</location>
+		</platform>
+		<platform>
 			<platformID>SS-X53</platformID>
 			<location>https://www.father-mande.ovh/Q/qpkg/mykodi16_2-16.1.1.zip</location>
 		</platform>
@@ -249,6 +253,10 @@
 		</platform>
 		<platform>
 			<platformID>TS-X53U</platformID>
+			<location>https://www.father-mande.ovh/Q/qpkg/mykodi17_17.0.B6.zip</location>
+		</platform>
+		<platform>
+			<platformID>TS-253A</platformID>
 			<location>https://www.father-mande.ovh/Q/qpkg/mykodi17_17.0.B6.zip</location>
 		</platform>
 		<platform>
@@ -477,6 +485,10 @@
 			<location>http://perso.numericable.fr/qnap_files1/files/netflix_1.0.zip</location>
 		</platform>
 		<platform>
+			<platformID>TS-253A</platformID>
+			<location>http://perso.numericable.fr/qnap_files1/files/netflix_1.0.zip</location>
+		</platform>
+		<platform>
 			<platformID>SS-X53</platformID>
 			<location>http://perso.numericable.fr/qnap_files1/files/netflix_1.0.zip</location>
 		</platform>
@@ -671,230 +683,234 @@
 		<icon_tv>http://perso.numericable.fr/qnap_files1/icons/netflix_380_tv.png</icon_tv>
 	</item>
 	<item>
-                <name>openpht</name>
-                <internalName>openpht</internalName>
-                <class>HD_Station</class>
-                <type>Entertainment</type>
-                <!-- <class>HD_Station</class> -->
-                <description><![CDATA[Fork of abandonned PlexHomeTheater. based on Kodi 16.1 / ffmpeg 3.0 ]]></description>
-                <version>1.6.2</version>
-                <platform>
-                        <platformID>HS-251</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-X51</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-X53</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-X53U</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>SS-X53</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-EC880U-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-EC1280U-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-EC1680U-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-EC2480U-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-EC880 Pro</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TVS-871U-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TVS-1271U-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-470</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-670</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-870</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TVS-470</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TVS-670</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TVS-870</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-1679U-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-1279U-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-879U-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-1079 Pro</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-879 Pro</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-1270U-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-870U-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-470U-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-470U-RP PRO</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>IS-400 Pro</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-EC1080 Pro</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TVS-EC880</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TVS-EC1080</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TVS-EC1080+</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-X80</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-X80U</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-X71</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-X71U</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TVS-871U-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TVS-1271U-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-EC879U-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-EC1279U-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-EC1679U-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-EC1279U-SAS-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-EC1679U-SAS-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>SS-EC1279U-SAS-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>SS-EC1879U-SAS-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>SS-EC2479U-SAS-RP</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-X51A</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-X53II</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>TS-X82</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <platform>
-                        <platformID>IPC-HSW</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-				<platform>
-                        <platformID>TS-X73</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-				<platform>
-                        <platformID>TS-X63</platformID>
-                        <location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
-                </platform>
-                <publishedDate>2016/10/01</publishedDate>
-                <maintainer><![CDATA[OpenPHT]]></maintainer>
-                <developer><![CDATA[OpenPHT Team]]></developer>
-                <forumLink><![CDATA[https://forums.plex.tv/categories/openpht ]]></forumLink>
-                <icon>https://www.father-mande.ovh/Q/icons/openpht_64.png</icon>
-                <icon80>https://www.father-mande.ovh/Q/icons/openpht_80.png</icon80>
-                <icon100>https://www.father-mande.ovh/Q/icons/openpht_100.png</icon100>
-                <snapshot>https://www.father-mande.ovh/Q/icons/openpht_380_tv.png</snapshot>
-                <icon_tv>https://www.father-mande.ovh/Q/icons/openpht_380_tv.png</icon_tv>
+			<name>openpht</name>
+			<internalName>openpht</internalName>
+			<class>HD_Station</class>
+			<type>Entertainment</type>
+			<!-- <class>HD_Station</class> -->
+			<description><![CDATA[Fork of abandonned PlexHomeTheater. based on Kodi 16.1 / ffmpeg 3.0 ]]></description>
+			<version>1.6.2</version>
+			<platform>
+					<platformID>HS-251</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-X51</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-X53</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-X53U</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-253A</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>SS-X53</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-EC880U-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-EC1280U-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-EC1680U-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-EC2480U-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-EC880 Pro</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TVS-871U-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TVS-1271U-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-470</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-670</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-870</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TVS-470</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TVS-670</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TVS-870</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-1679U-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-1279U-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-879U-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-1079 Pro</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-879 Pro</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-1270U-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-870U-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-470U-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-470U-RP PRO</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>IS-400 Pro</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-EC1080 Pro</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TVS-EC880</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TVS-EC1080</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TVS-EC1080+</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-X80</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-X80U</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-X71</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-X71U</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TVS-871U-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TVS-1271U-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-EC879U-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-EC1279U-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-EC1679U-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-EC1279U-SAS-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-EC1679U-SAS-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>SS-EC1279U-SAS-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>SS-EC1879U-SAS-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>SS-EC2479U-SAS-RP</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-X51A</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-X53II</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-X82</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>IPC-HSW</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-X73</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<platform>
+					<platformID>TS-X63</platformID>
+					<location>https://www.father-mande.ovh/Q/qpkg/openpht_1.6.2.zip</location>
+			</platform>
+			<publishedDate>2016/10/01</publishedDate>
+			<maintainer><![CDATA[OpenPHT]]></maintainer>
+			<developer><![CDATA[OpenPHT Team]]></developer>
+			<forumLink><![CDATA[https://forums.plex.tv/categories/openpht ]]></forumLink>
+			<icon>https://www.father-mande.ovh/Q/icons/openpht_64.png</icon>
+			<icon80>https://www.father-mande.ovh/Q/icons/openpht_80.png</icon80>
+			<icon100>https://www.father-mande.ovh/Q/icons/openpht_100.png</icon100>
+			<snapshot>https://www.father-mande.ovh/Q/icons/openpht_380_tv.png</snapshot>
+			<icon_tv>https://www.father-mande.ovh/Q/icons/openpht_380_tv.png</icon_tv>
         </item>
 	<item>
 		<name>x11vnc</name>
@@ -918,6 +934,10 @@
 		</platform>
 		<platform>
 			<platformID>TS-X53U</platformID>
+			<location>https://www.father-mande.ovh/Q/qpkg/x11vnc_0.9.13.zip</location>
+		</platform>
+		<platform>
+			<platformID>TS-253A</platformID>
 			<location>https://www.father-mande.ovh/Q/qpkg/x11vnc_0.9.13.zip</location>
 		</platform>
 		<platform>
